@@ -1,0 +1,14 @@
+joblib
+textblob
+pandas-profiling
+vaderSentiment
+spacy
+jellyfish
+langdetect
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
